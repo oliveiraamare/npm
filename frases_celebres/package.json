@@ -1,0 +1,16 @@
+{
+  "name": "citacoes",
+  "version": "0.0.1",
+  "description": "Seja a mudança que você quer ver no mundo. - Mahatma Gandhi",
+  "main": "index.js",
+  "author": "oliveiraamare <amare.os@hotmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliveiraamare/npm/tree/master/citacoes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oliveiraamare/npm/issues"
+  },
+  "homepage": "https://github.com/oliveiraamare/npm/tree/master/citacoes#readme"
+}
