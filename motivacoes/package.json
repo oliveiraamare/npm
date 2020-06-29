@@ -7,10 +7,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oliveiraamare/npm/motivacoes.git"
+    "url": "git+https://github.com/oliveiraamare/npm/tree/master/motivacoes.git"
   },
   "bugs": {
-    "url": "https://github.com/oliveiraamare/npm/motivacoes/issues"
+    "url": "https://github.com/oliveiraamare/npm/issues"
   },
-  "homepage": "https://github.com/oliveiraamare/npm/motivacoes#readme"
+  "homepage": "https://github.com/oliveiraamare/npm/tree/master/motivacoes#readme"
 }
