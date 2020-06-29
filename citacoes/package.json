@@ -7,7 +7,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oliveiraamare/npm/tree/master/citacoes.git"
+    "url": "https://github.com/oliveiraamare/npm/tree/master/citacoes.git"
   },
   "bugs": {
     "url": "https://github.com/oliveiraamare/npm/issues"
