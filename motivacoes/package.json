@@ -1,0 +1,16 @@
+{
+  "name": "motivacoes",
+  "version": "0.0.1",
+  "description": "você pode o que quiser!",
+  "main": "index.js",
+  "author": "oliveiraamare <amare.os@hotmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliveiraamare/npm/motivacoes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oliveiraamare/npm/motivacoes/issues"
+  },
+  "homepage": "https://github.com/oliveiraamare/npm/motivacoes#readme"
+}
