@@ -1,5 +1,5 @@
 # Motivações!!!
-> Recomece qauntas vezes quiser!
+> Recomece quantas vezes quiser!
 
 ## instalando
 
